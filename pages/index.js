@@ -1,1 +1,0 @@
-export { default } from './assignment5_Lai_Zhang'
